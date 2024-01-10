@@ -1,0 +1,13 @@
+QUE:- What are the data types supported by JavaScript?
+
+ANS:- => Primitive Data Types:-
+        1.   String
+        2.   Number
+        3.   Boolean
+        4.   Undefined
+        5.   Null
+
+      => Object Data Types:-
+        1.   Object
+        2.   Array
+        3.   Function -->

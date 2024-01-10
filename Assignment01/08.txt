@@ -1,0 +1,18 @@
+QUE:-What is the difference between null & undefined?
+
+ANS:- 1.Null:-
+        is an assignment value.
+        it can be assigned to a variable as a representation of no value.
+
+        var teatvar = null;
+        alert(testvar); //shows null
+        alert(typeof testvar); //shows obj
+        
+      2. Undifine:-
+        means a variable has been declare but has not yet been assigned a value.
+
+        var testvar;
+        alert(testvar); // shows undifine
+        alert(typeof testvar); // shows undifine
+
+

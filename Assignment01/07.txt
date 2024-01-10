@@ -1,0 +1,13 @@
+QUE:-What is the difference between the operators ‘==‘ & ‘===‘?
+
+
+ANS:-   =>In JavaScript, the == (equality) and === (strict equality) operators are used for comparing values, 
+            but they behave differently in terms of type coercion 
+
+            1. == (Equality Operator):
+                '5' == 5;   // true, because '5' is coerced to the number 5
+                 1 == true;   // true, because true is coerced to the number 1
+
+            2. === (Strict Equality Operator):
+                '5' === 5;   // false, because the types are different (string vs. number)
+                 1 === true;   // false, because the types are different (number vs. boolean)

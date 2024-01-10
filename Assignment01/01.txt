@@ -1,0 +1,17 @@
+QUE:- What is the difference between Java & JavaScript?
+
+ANS:-Java       :- It is object-oriented programming language.
+     JavaScript :- It is scripting language used for web development.
+
+     Java       :- It is mainly used for back-end
+     JavaScript :- It is mainly used for front-end
+
+     Java       :- Executted in jvm or in the browser.
+     JavaScript :- Executted in browser.
+
+     Java       :- Static type checking
+     JavaScript :- dynamic type checking
+
+     Java       :- requires java development kit(JDK)
+     JavaScript :- can be wrriten any text editor 
+

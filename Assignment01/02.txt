@@ -1,0 +1,16 @@
+QUE:- What is JavaScript?
+
+ANS:-  => JavaScript is the scripting language for webpages.
+
+       => Ja      vaScript can update and change both HTML and CSS.
+
+       => JavaScript can calculate, manipulate and validate data.
+
+       => is a lightweight, cross-platform, single-threaded, and interpreted compiled programming language.
+
+       => It is well-known for the development of web pages, and many non-browser environments also use it.
+
+       =>  JavaScript can be used for Client-side developments as well as Server-side developments.
+
+       => JavaScript is both an imperative and declarative type of language.
+  

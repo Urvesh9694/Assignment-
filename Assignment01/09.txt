@@ -1,0 +1,4 @@
+QUE:-What would be the result of 2+5+”3″? 
+
+ANS:- 
+        => 73

@@ -1,0 +1,7 @@
+QUE:- What are the scopes of a variable in JavaScript?
+
+ANS:-   1. Global Scope:
+        2. Local Scope:
+        3. Lexical Scope:
+
+

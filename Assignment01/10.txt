@@ -1,0 +1,9 @@
+QUE:-What is the difference between Call & Apply?
+
+ANS:-   Call:-
+            it use to invoke a function with the object and arguments.
+            syntax : functionName:call(object,arguments);
+
+        Apply:-
+            apply method needs arguments as an array
+            syntax : functioName.apply(object,[arg1,arg2,...]);
