@@ -1,0 +1,16 @@
+QUE:- What is Node.js? Where can you use it?
+
+ANS:-   =>Node.js is a JavaScript runtime environment that allows developers to execute
+          JavaScript code on the server side.
+        =>It is built on the V8 JavaScript runtime engine, which is the same engine that 
+          powers the Google Chrome browser.
+        =>Node.js enables developers to use JavaScript for server-side scripting, allowing
+          them to create scalable and high-performance network applications.
+
+        Node.js is commonly used in
+            => Web Development
+            => Real-time Applications
+            => API Servers
+            => Microservices
+            => Command Line Tools
+            => Internet of Things 
