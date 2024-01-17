@@ -1,0 +1,13 @@
+QUE:- What is NPM?
+
+ANS:-   =>NPM stands for "Node Package Manager," and it is the default package manager for Node.js.
+        =>NPM plays a crucial role in the Node.js ecosystem by allowing developers to easily manage
+          and distribute JavaScript libraries and tools.
+
+        Here are key aspects of NPM:
+            1. Package Management
+            2. Command-Line Interface
+            3. Registry
+            4. Package.json
+            5. Dependency Management
+            6. Scripts

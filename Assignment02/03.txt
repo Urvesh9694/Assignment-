@@ -1,0 +1,10 @@
+QUE:- What are the advantages of using promises instead of callbacks?
+
+ANS:-   =>Promises are an alternative to callbacks in JavaScript and Node.js, providing a more
+          structured and flexible way to handle asynchronous operations.
+        =>Here are some advantages of using Promises over callbacks:
+            1. Improved Readability
+            2. Error Handling
+            3. Chaining
+            4. Composition and Sequencing
+            5. Promise API

@@ -1,0 +1,11 @@
+QUE:- Explain callback in Node.js.
+
+ANS:-
+        =>In Node.js, callbacks are a fundamental concept used to handle asynchronous operations.
+        =>callbacks provide a way to manage the flow of code execution when dealing with tasks that 
+          may take some time to complete.
+        =>A callback is simply a function that is passed as an argument to another function, and it
+          is executed once the operation it is associated with is completed.
+        =>Callbacks in Node.js typically follow the pattern of "error-first callbacks," where the first
+          parameter of the callback function is reserved for an error object, and the subsequent
+          parameters contain the results of the operation
